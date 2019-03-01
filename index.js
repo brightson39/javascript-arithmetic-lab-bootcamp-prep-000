@@ -1,4 +1,5 @@
-function add(a,b){
+parseInt('a,b)
+
  
 }
 
