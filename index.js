@@ -1,2 +1,2 @@
-a + b 
+function add(
 a - B
